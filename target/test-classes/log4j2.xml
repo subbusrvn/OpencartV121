@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+
+    <Properties>
+        <!-- Reusable variables -->
+        <Property name="basePath">./logs</Property>
+        <Property name="logFileName">automation.log</Property>
+    </Properties>
+
+    <Appenders>
+
+        <!-- File appender -->
+        <File name="FileAppender"
+              fileName="${basePath}/${logFileName}"
+              append="true">
+            <PatternLayout 
+                pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </File>
+
+        <!-- Rolling-file appender -->
+        <RollingFile name="RollingFileAppender"
+                     fileName="${basePath}/rolling-${logFileName}"
+                     filePattern="${basePath}/automation-%d{yyyy-MM-dd}-%i.log.gz"
+                     append="true">
+            <PatternLayout
+                pattern="%d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+            <Policies>
+                <SizeBasedTriggeringPolicy size="10MB" />
+            </Policies>
+        </RollingFile>
+
+    </Appenders>
+
+    <Loggers>
+
+        <!-- Root Logger -->
+        <Root level="debug">
+            <AppenderRef ref="FileAppender" />
+            <!-- Add rolling if needed -->
+            <!-- <AppenderRef ref="RollingFileAppender" /> -->
+        </Root>
+
+    </Loggers>
+
+</Configuration>

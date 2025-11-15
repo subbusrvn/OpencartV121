@@ -1,0 +1,204 @@
+2025-11-14 06:40:39.398 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPR~1\AppData\Local\Temp\testng-eclipse-1336218549\testng-customsuite.xml"
+2025-11-14 06:40:39.580 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-11-14 06:40:39.582 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-14 06:40:39.584 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.585 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.586 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.587 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.593 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.
+2025-11-14 06:40:39.602 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-11-14 06:40:39.604 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-14 06:40:39.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.606 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.607 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.609 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.610 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.610 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.616 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-14 06:40:39.617 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-14 06:40:39.628 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\AppData\Local\Temp\testng-eclipse-1336218549\testng-customsuite.xml
+
+2025-11-14 06:40:39.649 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-11-14 06:40:41.488 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 06:40:41.501 [main] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 06:40:41.577 [main] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 06:40:44.308 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 06:40:44.308 [main] DEBUG testCases.TCC_001_AccountRegistrationTest - Debug Logs
+2025-11-14 06:40:44.308 [main] ERROR testCases.TCC_001_AccountRegistrationTest - Error Logs
+2025-11-14 06:40:44.393 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@6f0cb5a1: 46 ms
+2025-11-14 06:40:44.403 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@51d143a1: 9 ms
+2025-11-14 06:40:44.411 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@256aa5f2: 8 ms
+2025-11-14 06:40:44.417 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@776802b0: 6 ms
+2025-11-14 06:40:44.424 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@3cd59ef5: 7 ms
+2025-11-14 06:40:44.425 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@33b082c5: 0 ms
+2025-11-14 06:51:45.677 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 06:51:45.911 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml
+
+2025-11-14 06:51:48.974 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 06:51:48.993 [main] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 06:51:49.102 [main] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 06:51:51.869 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 06:51:51.870 [main] DEBUG testCases.TCC_001_AccountRegistrationTest - Debug Logs
+2025-11-14 06:51:51.870 [main] ERROR testCases.TCC_001_AccountRegistrationTest - Error Logs
+2025-11-14 06:52:04.515 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 06:52:04.736 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml
+
+2025-11-14 06:52:10.925 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 06:52:10.939 [main] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 06:52:11.013 [main] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 06:52:13.580 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 06:52:13.581 [main] DEBUG testCases.TCC_001_AccountRegistrationTest - Debug Logs
+2025-11-14 06:52:13.581 [main] ERROR testCases.TCC_001_AccountRegistrationTest - Error Logs
+2025-11-14 06:56:39.512 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 06:57:32.087 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 06:57:32.332 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml
+
+2025-11-14 06:57:34.971 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 06:57:34.986 [main] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 06:57:35.065 [main] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 06:57:37.900 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 06:57:37.902 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 06:58:53.665 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 06:58:53.912 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml
+
+2025-11-14 06:58:56.618 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 06:58:56.635 [main] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 06:58:56.719 [main] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 06:58:59.355 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 06:58:59.357 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 06:59:04.209 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 06:59:04.210 [main] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 06:59:04.285 [main] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 06:59:06.892 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 06:59:06.893 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 06:59:11.267 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 06:59:11.267 [main] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 06:59:11.431 [main] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 06:59:14.134 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 06:59:14.134 [main] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:00:28.593 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 07:00:28.658 [main] INFO  org.testng.internal.Utils - [XmlSuite] [WARN] 'parallel' value 'true' is no longer valid, defaulting to 'methods'.
+2025-11-14 07:00:28.841 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml
+
+2025-11-14 07:00:35.356 [TestNG-test-chromeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:00:35.372 [TestNG-test-chromeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:00:35.439 [TestNG-test-chromeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:00:38.434 [TestNG-test-chromeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:00:38.437 [TestNG-test-chromeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:00:42.077 [TestNG-test-edgeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:00:42.078 [TestNG-test-edgeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:00:42.169 [TestNG-test-edgeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:00:44.923 [TestNG-test-edgeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:00:44.924 [TestNG-test-edgeBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:00:49.308 [TestNG-test-firefoxBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:00:49.309 [TestNG-test-firefoxBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:00:49.389 [TestNG-test-firefoxBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:00:51.853 [TestNG-test-firefoxBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:00:51.854 [TestNG-test-firefoxBrowserTest-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:03:24.155 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 07:03:24.412 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml
+
+2025-11-14 07:03:27.170 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:03:27.197 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:03:27.930 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:03:27.934 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:03:28.205 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:03:28.434 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:03:31.149 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:03:31.151 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:03:31.587 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:03:31.588 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:03:31.678 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:03:31.678 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:03:31.721 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:03:34.420 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:03:34.420 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:06:23.791 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml"
+2025-11-14 07:06:24.044 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\testng.xml
+
+2025-11-14 07:06:26.208 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:06:26.236 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:06:26.265 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:06:26.266 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:06:26.388 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:06:26.391 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:06:29.008 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:06:29.009 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:06:29.214 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:06:29.979 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:06:29.981 [TestNG-tests-2] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:06:30.314 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:06:30.315 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:06:32.000 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:06:32.001 [TestNG-tests-3] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 07:25:38.333 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:25:38.561 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:26:55.580 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:26:55.852 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:28:15.015 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:28:15.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:28:42.527 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:28:42.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:29:14.937 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:29:15.172 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:34:24.776 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:34:25.004 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:35:22.099 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:35:22.323 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:36:23.416 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:36:23.639 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:39:20.043 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 07:39:20.269 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 07:39:22.590 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 07:39:22.606 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 07:39:22.689 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 07:39:25.648 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 07:39:25.652 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
+2025-11-14 08:04:22.861 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml"
+2025-11-14 08:04:23.085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\BANUPRIYA\eclipse-workspace\OpencartV121\SingleBrowserExecution.xml
+
+2025-11-14 08:04:25.543 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Started
+2025-11-14 08:04:25.560 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - My Acount Option Clicked
+2025-11-14 08:04:25.637 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - Register Account is Clicked
+2025-11-14 08:04:31.813 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Confirmation Message verified
+2025-11-14 08:04:31.816 [TestNG-tests-1] INFO  testCases.TCC_001_AccountRegistrationTest - TCC_001_AccountRegistrationTest Execution Completed
